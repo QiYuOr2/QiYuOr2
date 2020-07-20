@@ -1,16 +1,14 @@
+***
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tuzilow&show_icons=true">
+
 ### Hi there 👋
 
-<!--
-**Tuzilow/Tuzilow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Blog](https://img.shields.io/badge/-Tuzilow-1ca0f1?label=Blog&flat-square&link=https://tuzilow.github.io)](https://tuzilow.github.io)
+[![QQ](https://img.shields.io/badge/-1176281967-success?label=QQ&flat-square&link=tencent://message/?uin=1176281967)](tencent://message/?uin=1176281967)
 
-Here are some ideas to get you started:
+I'm Mengyu Xu, undergraduate studentbo'shi'mao.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 21 Years old Developer  
+- 💬 Languages : JavaScript, C#  
+- 🌱 I’m currently learning Data Structures and Algorithms
+***
