@@ -1,5 +1,7 @@
+![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=tuzilow&hide=html,css)
+![tuzilow's stats](https://github-readme-stats.vercel.app/api?username=tuzilow&show_icons=true)
+
 ***
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tuzilow&show_icons=true">
 
 ### Hi there 👋
 
