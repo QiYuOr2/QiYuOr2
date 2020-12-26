@@ -1,6 +1,3 @@
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=tuzilow&hide=html,css)
-![tuzilow's stats](https://github-readme-stats.vercel.app/api?username=tuzilow&show_icons=true)
-
 ***
 
 ### Hi there 👋
@@ -13,4 +10,7 @@
 - 💻 99年的，菜鸟程序员
 - 💬 JavaScript、C#、TypeScript都会写，Python学过一点点
 - 🌱 正在努力学习提升自己
+
+![tuzilow's stats](https://github-readme-stats.vercel.app/api?username=tuzilow&show_icons=true)
+
 ***
