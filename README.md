@@ -1,16 +1,28 @@
-***
+
 
 ### Hi there 👋
 
-[![My Blog](https://img.shields.io/badge/-https://tuzilow.github.io-1ca0f1?label=Blog&flat-square&link=https://tuzilow.github.io)](https://tuzilow.github.io)
+[![My Blog](https://img.shields.io/badge/-https://xmy6364.github.io-1ca0f1?label=Blog&flat-square&link=https://xmy6364.github.io)](https://xmy6364.github.io)
 [![QQ](https://img.shields.io/badge/-1176281967-success?label=QQ&flat-square&link=tencent://message/?uin=1176281967)](tencent://message/?uin=1176281967)
 
-徐梦宇，大三在校生。
+![tuzilow's stats](https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api?username=xmy6364&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)
 
-- 💻 99年的，菜鸟程序员
-- 💬 JavaScript、C#、TypeScript都会写，Python学过一点点
-- 🌱 正在努力学习提升自己
+- 💻 2018级软件工程专业本科生
+- 🌱 正在从各个方面努力提升自己
+- 🔭 目前感兴趣但不会的技术：svelte, cocos, tensorflow
 
-![tuzilow's stats](https://github-readme-stats.vercel.app/api?username=tuzilow&show_icons=true)
+#### Languages and Frameworks
+<code><img height="20" src="https://simpleicons.org/icons/csharp.svg" alt="csharp" ></code>
+<code><img height="20" src="https://simpleicons.org/icons/javascript.svg" alt="javascript" ></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" ></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" ></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" ></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" ></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" ></code>
+<code><img height="20" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" ></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" ></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg" alt="koajs" ></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" ></code>
+...
 
-***
+
