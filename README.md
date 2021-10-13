@@ -7,9 +7,9 @@
 
 ![qiyuor2's stats](https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api?username=qiyuor2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)
 
-- 💻 2018级软件工程专业本科生
-- 🌱 正在从各个方面努力提升自己
-- 🔭 目前感兴趣但不会的技术：svelte, cocos, tensorflow
+- 💻 前端工程师
+- 🌱 永远在学习
+- 🔭 正在研究electron
 
 #### Languages and Frameworks
 <code><img height="20" src="https://simpleicons.org/icons/csharp.svg" alt="csharp" ></code>
