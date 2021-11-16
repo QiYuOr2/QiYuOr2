@@ -9,7 +9,7 @@
 
 - 💻 前端工程师
 - 🌱 永远在学习
-- 🔭 正在研究electron
+- 🔭 正在开发[Yu Page](https://github.com/QiYuOr2/yu-page)，一个可视化搭建的项目
 
 #### Languages and Frameworks
 <code><img height="20" src="https://simpleicons.org/icons/csharp.svg" alt="csharp" ></code>
