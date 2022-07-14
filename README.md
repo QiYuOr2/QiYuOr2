@@ -10,7 +10,7 @@
 
 - 💻 会点前端
 - 🌱 持续学习中
-- 🔭 正在开发[Yu Page](https://github.com/QiYuOr2/yu-page)，一个可视化搭建的项目
+- 🔭 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qiyuor2&hide=css,html&layout=compact)
 
