@@ -12,5 +12,5 @@
 - 🌱 持续学习中
 - 🔭 绝赞摸鱼中
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qiyuor2&hide=css,html&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qiyuor2&hide=html,css,less&layout=compact)
 
