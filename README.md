@@ -1,4 +1,4 @@
-
+![我觉得，机会难得，干脆边喝酒边走向毁灭吧。](images/from-fgo.png)
 
 #### Find me
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/qiyuor2)
